@@ -1,0 +1,7 @@
+/tmp
+tmp
+/tmp/**
+tmp/**
+.env
+.vscode
+
